@@ -21,7 +21,7 @@
 .gpt3__blog-container{
     display: flex;
     flex-direction: row;
-    margin-bottom: 2rem;
+    /* margin-bottom: 2rem; */
 }
 
 .gpt3__blog-container div{
@@ -36,7 +36,7 @@
     flex: 1;
     display: grid;
     grid-template-columns: repeat(2,1fr);
-    grid-gap: 10rem;
+    grid-gap:17rem 0;
     /* margin: 2rem; */
     
 }
